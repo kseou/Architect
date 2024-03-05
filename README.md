@@ -1,6 +1,6 @@
 # Architect
 
-Architect is a simple, lightweight Lua-based Makefile-style build tool and a toy project designed for my personal C/C++ use. It provides a simple and flexible way to define build configurations, compile source files, and run arbitrary shell commands.
+Architect is a simple, lightweight Lua-based Makefile-style build tool and a toy project for UNIX systems designed for my personal C/C++ use. It provides a simple and flexible way to define build configurations, compile source files, and run arbitrary shell commands.
 
 ## Prerequisites
 
